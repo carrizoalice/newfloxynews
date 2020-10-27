@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/newfloxynews/precache-manifest.55c734ba57e71e3a8fc59df5642c8ace.js"
+  "/newfloxynews/precache-manifest.9f787dac588e1f8ce6328048609bfcc2.js"
 );
 
 self.addEventListener('message', (event) => {
