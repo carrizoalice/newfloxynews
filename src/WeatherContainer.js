@@ -14,7 +14,7 @@ class WeatherContainer extends React.Component{
     }  
     componentDidMount(){
         const api_weather = API_KEY_WEATHER
-        fetch(`http://api.openweathermap.org/data/2.5/weather?q=Buenos Aires, AR&appid=${api_weather}`)
+        fetch(`https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires, AR&appid=${api_weather}`)
         .then(res => res.json())
         .then(ClimeJson => this.setState({clime: ClimeJson, temp: ClimeJson.main, icon: ClimeJson.weather}))
     }
