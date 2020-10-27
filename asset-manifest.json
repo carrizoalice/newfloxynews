@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e98961e0.chunk.css",
-    "main.js": "/static/js/main.e11aa324.chunk.js",
-    "main.js.map": "/static/js/main.e11aa324.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9410680.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9410680.js.map",
-    "static/css/2.e24a89a4.chunk.css": "/static/css/2.e24a89a4.chunk.css",
-    "static/js/2.452cc708.chunk.js": "/static/js/2.452cc708.chunk.js",
-    "static/js/2.452cc708.chunk.js.map": "/static/js/2.452cc708.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.24afdf19634c95b334076bd4f8e86bf1.js": "/precache-manifest.24afdf19634c95b334076bd4f8e86bf1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.e24a89a4.chunk.css.map": "/static/css/2.e24a89a4.chunk.css.map",
-    "static/css/main.e98961e0.chunk.css.map": "/static/css/main.e98961e0.chunk.css.map",
-    "static/js/2.452cc708.chunk.js.LICENSE.txt": "/static/js/2.452cc708.chunk.js.LICENSE.txt"
+    "main.css": "/newfloxynews/static/css/main.e98961e0.chunk.css",
+    "main.js": "/newfloxynews/static/js/main.e5ac0bdd.chunk.js",
+    "main.js.map": "/newfloxynews/static/js/main.e5ac0bdd.chunk.js.map",
+    "runtime-main.js": "/newfloxynews/static/js/runtime-main.89b3cf89.js",
+    "runtime-main.js.map": "/newfloxynews/static/js/runtime-main.89b3cf89.js.map",
+    "static/css/2.e24a89a4.chunk.css": "/newfloxynews/static/css/2.e24a89a4.chunk.css",
+    "static/js/2.452cc708.chunk.js": "/newfloxynews/static/js/2.452cc708.chunk.js",
+    "static/js/2.452cc708.chunk.js.map": "/newfloxynews/static/js/2.452cc708.chunk.js.map",
+    "index.html": "/newfloxynews/index.html",
+    "precache-manifest.21d940688cde3127a992684058649384.js": "/newfloxynews/precache-manifest.21d940688cde3127a992684058649384.js",
+    "service-worker.js": "/newfloxynews/service-worker.js",
+    "static/css/2.e24a89a4.chunk.css.map": "/newfloxynews/static/css/2.e24a89a4.chunk.css.map",
+    "static/css/main.e98961e0.chunk.css.map": "/newfloxynews/static/css/main.e98961e0.chunk.css.map",
+    "static/js/2.452cc708.chunk.js.LICENSE.txt": "/newfloxynews/static/js/2.452cc708.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9410680.js",
+    "static/js/runtime-main.89b3cf89.js",
     "static/css/2.e24a89a4.chunk.css",
     "static/js/2.452cc708.chunk.js",
     "static/css/main.e98961e0.chunk.css",
-    "static/js/main.e11aa324.chunk.js"
+    "static/js/main.e5ac0bdd.chunk.js"
   ]
 }
