@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newfloxynews/static/css/main.e98961e0.chunk.css",
+    "main.js": "/newfloxynews/static/js/main.3388b47c.chunk.js",
+    "main.js.map": "/newfloxynews/static/js/main.3388b47c.chunk.js.map",
+    "runtime-main.js": "/newfloxynews/static/js/runtime-main.89b3cf89.js",
+    "runtime-main.js.map": "/newfloxynews/static/js/runtime-main.89b3cf89.js.map",
+    "static/css/2.e24a89a4.chunk.css": "/newfloxynews/static/css/2.e24a89a4.chunk.css",
+    "static/js/2.4195748e.chunk.js": "/newfloxynews/static/js/2.4195748e.chunk.js",
+    "static/js/2.4195748e.chunk.js.map": "/newfloxynews/static/js/2.4195748e.chunk.js.map",
+    "index.html": "/newfloxynews/index.html",
+    "precache-manifest.fc8c31409dccc50aa95fc232c93d9c89.js": "/newfloxynews/precache-manifest.fc8c31409dccc50aa95fc232c93d9c89.js",
+    "service-worker.js": "/newfloxynews/service-worker.js",
+    "static/css/2.e24a89a4.chunk.css.map": "/newfloxynews/static/css/2.e24a89a4.chunk.css.map",
+    "static/css/main.e98961e0.chunk.css.map": "/newfloxynews/static/css/main.e98961e0.chunk.css.map",
+    "static/js/2.4195748e.chunk.js.LICENSE.txt": "/newfloxynews/static/js/2.4195748e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b3cf89.js",
+    "static/css/2.e24a89a4.chunk.css",
+    "static/js/2.4195748e.chunk.js",
+    "static/css/main.e98961e0.chunk.css",
+    "static/js/main.3388b47c.chunk.js"
+  ]
+}
