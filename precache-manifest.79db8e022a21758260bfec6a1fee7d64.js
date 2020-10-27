@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99471de2dfe9da589e88b63943b08fe1",
+    "revision": "bd3c0eaf4fe005785ae9cb26b0272c6d",
     "url": "/newfloxynews/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newfloxynews/static/css/2.e24a89a4.chunk.css"
   },
   {
-    "revision": "73783190306636b1efc2",
+    "revision": "f50b189edf44add40650",
     "url": "/newfloxynews/static/css/main.e98961e0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newfloxynews/static/js/2.452cc708.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "73783190306636b1efc2",
-    "url": "/newfloxynews/static/js/main.e5ac0bdd.chunk.js"
+    "revision": "f50b189edf44add40650",
+    "url": "/newfloxynews/static/js/main.1390a7d9.chunk.js"
   },
   {
     "revision": "0ab98ef62ae69cab4cef",
