@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23801dd8eccf5495101d4fd5463c9a1c",
+    "revision": "534db81ef119d0670aa0f95064153823",
     "url": "/newfloxynews/index.html"
   },
   {
