@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/newfloxynews/static/css/main.ccfbde95.chunk.css",
-    "main.js": "/newfloxynews/static/js/main.ecd66dd7.chunk.js",
-    "main.js.map": "/newfloxynews/static/js/main.ecd66dd7.chunk.js.map",
+    "main.js": "/newfloxynews/static/js/main.ebd1fa5e.chunk.js",
+    "main.js.map": "/newfloxynews/static/js/main.ebd1fa5e.chunk.js.map",
     "runtime-main.js": "/newfloxynews/static/js/runtime-main.89b3cf89.js",
     "runtime-main.js.map": "/newfloxynews/static/js/runtime-main.89b3cf89.js.map",
     "static/css/2.e24a89a4.chunk.css": "/newfloxynews/static/css/2.e24a89a4.chunk.css",
     "static/js/2.155eb6e0.chunk.js": "/newfloxynews/static/js/2.155eb6e0.chunk.js",
     "static/js/2.155eb6e0.chunk.js.map": "/newfloxynews/static/js/2.155eb6e0.chunk.js.map",
     "index.html": "/newfloxynews/index.html",
-    "precache-manifest.11d1e00de5d41d6237376ebfd40a60de.js": "/newfloxynews/precache-manifest.11d1e00de5d41d6237376ebfd40a60de.js",
+    "precache-manifest.85291146cc1b78f585b199b7139ff300.js": "/newfloxynews/precache-manifest.85291146cc1b78f585b199b7139ff300.js",
     "service-worker.js": "/newfloxynews/service-worker.js",
     "static/css/2.e24a89a4.chunk.css.map": "/newfloxynews/static/css/2.e24a89a4.chunk.css.map",
     "static/css/main.ccfbde95.chunk.css.map": "/newfloxynews/static/css/main.ccfbde95.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.e24a89a4.chunk.css",
     "static/js/2.155eb6e0.chunk.js",
     "static/css/main.ccfbde95.chunk.css",
-    "static/js/main.ecd66dd7.chunk.js"
+    "static/js/main.ebd1fa5e.chunk.js"
   ]
 }
